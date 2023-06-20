@@ -1,0 +1,1 @@
+** functions in C** function is a self contained block of code that performs a specific task and are reusable, they are mostly used becuase of its reusability. This projects focuses more on the basics of functions, its prototype and calling
